@@ -1,6 +1,6 @@
-# Linux-Command-Executor-Python
+# Running Linux Commands over PYTHON with HTTP requests
 
-This project creates an HTTP default port 8000 on the server.
+Example Usage:
 
 Access To: http://YOUR_SERVER_IP:8000
 Access with Query: http://YOUR_SERVER_IP:8000?command=ls
